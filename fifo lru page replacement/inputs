@@ -1,0 +1,32 @@
+fifo page
+Enter Page Slots: 3
+Enter Number of Pages: 12
+Enter Pages: 
+2
+[2]
+3
+[3, 2]
+2
+[3, 2]
+1
+[1, 3, 2]
+5
+[5, 1, 3]
+2
+[2, 5, 1]
+4
+[4, 2, 5]
+5
+PAGE HIT
+[4, 2, 5]
+3
+[3, 4, 2]
+2
+PAGE HIT
+[3, 4, 2]
+5
+[5, 3, 4]
+2
+[2, 5, 3]
+TOTAL PAGE FAULT: 9
+TOTAL PAGE HIT: 3
